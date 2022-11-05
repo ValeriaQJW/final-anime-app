@@ -1,0 +1,8 @@
+remote_theme: pages-themes/merlot@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: [Final Anime App]
+description: [Every animation content has its own viewers and each content has it's rating.
+Viewers leave some good ratings for the content if they like it. But what about a new viewer facing tremendous ratings and comments of a specific kind of content? How will they know what to try?
+Businesses need to provide suggestions based on viewers likings and needs in order to create a better animated environment that boosts revenue and increases the time spent on a website. So we made a basic app like this to satisfy such business needs and values.]
